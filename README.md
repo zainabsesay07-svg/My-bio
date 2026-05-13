@@ -22,7 +22,7 @@
             My name is Zainab M Mansaray and I live in Freetown, Sierra Leone.
             I am a student of Limkokwing University studying BBIB.
             I love reading because it helps me gain knowledge and improve my understanding.
-        </p>
+        </p> 
 
         <h2>Why I Study Web Design</h2>
         <p>
